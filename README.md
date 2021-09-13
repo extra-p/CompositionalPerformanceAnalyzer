@@ -1,4 +1,4 @@
-# PerformanceAnalyzer
+# CompositionalPerformanceAnalyzer
 
 This code exemplifies the possibility of composing performance models along parallel design patterns.
 It does so by providing a convinient interface to implement parallel design patterns and nest them recursively.

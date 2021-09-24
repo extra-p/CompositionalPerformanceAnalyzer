@@ -10,5 +10,4 @@ in collaboration with [ETH Zurich](https://spcl.inf.ethz.ch/).
 
 ### Publications
 
-1. Fabian Czappa, Alexandru Calotoiu, Thomas Höhl, Heiko Mantel, Toni Nguyen, Felix Wolf: Design-time performance modeling of compositional parallel
-programs. To appear in: Parallel Computing
+1. Fabian Czappa, Alexandru Calotoiu, Thomas Höhl, Heiko Mantel, Toni Nguyen, Felix Wolf: Design-Time Performance Modeling of Compositional Parallel Programs. Parallel Computing 108:1–12, September 2021. doi: https://doi.org/10.1016/j.parco.2021.102839
